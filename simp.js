@@ -8,3 +8,4 @@ function compareFn(a, b) {
   // a must be equal to b
   return 0;
 }
+// test
